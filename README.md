@@ -1,4 +1,4 @@
-# Auction-Algorithm
+# AUCTION ALGORITHM
 This project needs to be contextualized in an algorithmic environment, the problem
 addressed is to implement a matching algorithm in particular an auction
 algorithm that works on any undirected weighted graph. One of the main goals
